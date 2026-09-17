@@ -48,6 +48,9 @@ The overall objective is to provide a more natural and accessible communication 
                                          ▼
                                   🦾 Prosthetic Hand
 
+```
+
+
 ## 🖐️ Phase 1 – Gesture-to-Speech
 
 Phase 1 focuses on converting **hand gestures into text and speech** using a wearable sensor-based system.
